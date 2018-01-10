@@ -1,5 +1,5 @@
 <!---Logo--->
-# Leetcode
+# Leetcode.
 
 
 <!---Logo--->
